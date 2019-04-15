@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<title>Welcome to Git | Git Branching Lesson 1</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	
@@ -16,6 +17,10 @@
 	<title>Welcome to Git | Git Branching</title>
 
 >>>>>>> inc54
+=======
+	<title>Welcome to Git | Git Branching</title>
+
+>>>>>>> 209ada3
 </head>
 <body class="page-body">
 	
