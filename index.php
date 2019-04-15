@@ -21,35 +21,6 @@
 	<div class="row" style="margin-top: 20px">
 		<div class="col-xs-offset-1 col-xs-10 col-xs-offset-1">
 			Welcome to Git	
-			<p></p>
-			<table class="table table-striped">
-				<thead>
-					<tr>
-						<th>Day 1</th>
-						<th>Day 2</th>
-						<th>Day 3</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>This</td>
-						<td>is</td>
-						<td>Day</td>
-					</tr>
-					
-					<tr>
-						<td>One</td>
-						<td>We</td>
-						<td>Must</td>
-					</tr>
-					
-					<tr>
-						<td>Be</td>
-						<td>Very</td>
-						<td>Glad</td>
-					</tr>
-				</tbody>
-			</table>
 		</div>
 	</div>
 	
