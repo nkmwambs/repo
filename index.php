@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Welcome to Git | Git Branching</title>
+	<title>Welcome to Git | Git Branching Lesson 1</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	
 	<script src="assets/js/jquery-3.3.1.min.js"></script>
