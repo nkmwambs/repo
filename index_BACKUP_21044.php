@@ -57,12 +57,14 @@
 			
 			<p></p>
 			
-
-			We now have a Nav file. Want to try mergetool.
+<<<<<<< HEAD
+			We now have a Nav file
 			
 			<p></p>
 			Hello There!
-
+=======
+			We now have a Nav file. Want to try mergetool.
+>>>>>>> inc105
 		</div>
 	</div>
 	
