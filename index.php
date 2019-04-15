@@ -57,7 +57,7 @@
 			
 			<p></p>
 			
-			We now have a Nav file
+			We now have a Nav file. Want to try mergetool.
 		</div>
 	</div>
 	
