@@ -1,6 +1,4 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -15,6 +13,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	
 </head>
 <body class="page-body">
+	
+	<?php include "header.php";?>
 
 <div id="page-container">
 	
@@ -25,6 +25,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</div>
 	
 </div>
+
+<?php include "footer.php";?>
 
 </body>
 </html>
