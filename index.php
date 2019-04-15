@@ -20,7 +20,11 @@
 	
 	<div class="row" style="margin-top: 20px">
 		<div class="col-xs-offset-1 col-xs-10 col-xs-offset-1">
+<<<<<<< HEAD
 			Welcome to Git. This is a Git branching lesson.
+=======
+			Welcome to Git	
+>>>>>>> hotfix
 		</div>
 	</div>
 	
