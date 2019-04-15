@@ -3,11 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<<<<<<< HEAD
-	
-=======
 
->>>>>>> inc60
 	<title>Welcome to Git | Git Branching Lesson 1</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	
@@ -16,15 +12,9 @@
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
 	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 	
-<<<<<<< HEAD
-	<title>Welcome to Git | Git Branching</title>
-
-=======
 
 	<title>Welcome to Git | Git Branching</title>
 
-
->>>>>>> inc60
 </head>
 <body class="page-body">
 	
